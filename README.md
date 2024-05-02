@@ -17,8 +17,7 @@
  
 <div style="display: inline_block"><br>
    Minhas Redes Sociais:   
-<a href="https://linktr.ee/niicolecruz</a>"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>	
-  
+<a href="https://linktr.ee/niicolecruz</a>"> <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>	  
 </div>
 
 
